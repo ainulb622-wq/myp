@@ -3,4 +3,5 @@ this is first line
 !#ssh --> shebang line
 #!ssh --> Shebang line
 read the page
-automation script adde
+automation script added
+Second line added
